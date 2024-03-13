@@ -1,4 +1,4 @@
-import Navbar from "./Navbar";
+import Navbar from "./Navbar.js";
 import Head from "next/head";
 
 
